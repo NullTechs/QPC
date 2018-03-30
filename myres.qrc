@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Banner.png</file>
+        <file>logo-ohucdc-logo.gif</file>
+        <file>maxresdefault.jpg</file>
+        <file>One-Hope-United.jpg</file>
+    </qresource>
+</RCC>
